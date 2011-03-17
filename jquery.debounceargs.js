@@ -23,7 +23,7 @@
 $.debounceargs = function(wait, cb){
     var timeOut = null
     ,   args = []
-    ,   callback = function(){cb(args);};
+    ,   callback = function(){args=[];timeOut=null;cb(args);};
 
     return function(){
         if(timeOut){
