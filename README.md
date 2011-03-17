@@ -1,4 +1,4 @@
-jQuery-debounceargs - Debounce call while saving each arguments
+jQuery-debounceargs - Debounce calls while saving each call's arguments
 ================================
 
 Usage
