@@ -1,4 +1,4 @@
-jQuery-debounceargs - Debounce calls while saving each call's arguments
+jQuery-debounceargs - Debounce calls while saving each call's arguments [![Gittip](http://badgr.co/gittip/fgribreau.png)](https://www.gittip.com/fgribreau/)
 ================================
 
 Usage
